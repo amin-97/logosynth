@@ -12,6 +12,4 @@
   <path d="M60 140 L60 60 L90 60" fill="none" stroke="#1E3A8A" stroke-width="10" stroke-linecap="round"/>
   <!-- Stylized 'S' -->
   <path d="M120 60 C140 60 140 100 120 100 C100 100 100 140 120 140" fill="none" stroke="#60A5FA" stroke-width="10" stroke-linecap="round"/>
-  <!-- Text: LogoSynth -->
-  <text x="100" y="180" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E3A8A" text-anchor="middle">LogoSynth</text>
 </svg>
